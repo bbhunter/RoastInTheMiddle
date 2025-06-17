@@ -1,6 +1,6 @@
 Roast in the Middle is a rough proof of concept (not attack-ready) that implements a man-in-the-middle ARP spoof to intercept AS-REQ's to modify and replay to perform a Kerberoast or Sessionroast attack.
 
-For more information about the kerberoast attack, read the blog post [All Ur AS Are Belong To Us](https://www.semperis.com/blog/new-attack-paths-as-requested-sts).
+For more information about the kerberoast attack, read the blog post [All Ur AS Belong To Us](https://exploit.ph/all-ur-as-belong-to-us.html).
 
 For more information about the sessionroast attack, read the blog post [DES Is Useful... Sometimes](https://exploit.ph/des-is-useful.html)
 
